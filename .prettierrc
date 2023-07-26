@@ -1,7 +1,11 @@
 {
-	"useTabs": true,
-	"trailingComma": "none",
-	"semi": false,
-	"plugins": ["prettier-plugin-astro"],
-	"pluginSearchDirs": false
+  "useTabs": true,
+  "trailingComma": "none",
+  "semi": false,
+  "printWidth": 80,
+  "tabWidth": 2,
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "plugins": ["prettier-plugin-astro"],
+  "pluginSearchDirs": false
 }

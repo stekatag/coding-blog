@@ -20,7 +20,9 @@ const { title = "Stefan's Code Blog", description = "Blog page description" } =
 	<MainHead {title} {description} />
 	<Nav />
 	<body>
-		<slot>Default Text</slot>
+		<main>
+			<slot>Default Text</slot>
+		</main>
 		<Footer />
 	</body>
 </html>
