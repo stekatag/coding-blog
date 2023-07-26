@@ -385,6 +385,10 @@ button:focus-visible {
 	color: hsl(var(--bkg));
 }
 
+.link.secondary.filled {
+	color: hsl(var(--bkg--light));
+}
+
 .link.bordered {
 	border-color: var(--type);
 }
