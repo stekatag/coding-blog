@@ -31,7 +31,7 @@ h6 {
 }
 
 :root {
-	--_hue: 235;
+	--_hue: 180;
 	--bkg--light: var(--_hue) 25% 97%;
 	--txt--light: var(--_hue) 40% 5%;
 	--accent--light: var(--_hue) 55% 50%;
@@ -383,10 +383,6 @@ button:focus-visible {
 	--fill: var(--type);
 	color: #f5f6f9;
 	color: hsl(var(--bkg));
-}
-
-.link.secondary.filled {
-	color: hsl(var(--bkg--light));
 }
 
 .link.bordered {

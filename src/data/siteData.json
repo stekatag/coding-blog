@@ -1,0 +1,8 @@
+{
+	"title": "Stefan's Coding Blog",
+	"description": "A blog about coding and web development.",
+	"image": {
+		"src": "/images/image-default.jpg",
+		"alt": "Stefan's Coding Blog"
+	}
+}
